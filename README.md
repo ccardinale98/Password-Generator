@@ -10,4 +10,8 @@ This password generator presents the user with a series of prompts asking for pa
 
 ![screenshot2](./assets/images/tolocJCPKD.png)
 
-## Link to Webpage
+## Links
+
+https://github.com/ccardinale98/Password-Generator
+
+https://ccardinale98.github.io/Password-Generator/
